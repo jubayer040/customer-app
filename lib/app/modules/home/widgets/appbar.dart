@@ -28,8 +28,8 @@ class AppBarWidget extends StatelessWidget {
         padding: EdgeInsets.only(left: 16.w, right: 16.w),
         child: SvgPicture.asset(
           SvgIcon.logo,
-          height: 20.h,
-          width: 73.w,
+          height: 25.h,
+          width: 80.w,
         ),
       ),
       title: Text(
