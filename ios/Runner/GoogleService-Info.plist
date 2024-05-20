@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyABoypBa2lw750AVUHjNg0Y7HXyqskrgc0</string>
+	<string>AIzaSyCn-CYA0hDfTuD5SHEF_V9qEM1RKDy_dPA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>308737311204</string>
+	<string>548266454258</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.inilabs.shopking</string>
 	<key>PROJECT_ID</key>
-	<string>shopperz-fe4ea</string>
+	<string>smart-in-mall</string>
 	<key>STORAGE_BUCKET</key>
-	<string>shopperz-fe4ea.appspot.com</string>
+	<string>smart-in-mall.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:308737311204:ios:836ee2a148ab62701bc7f1</string>
+	<string>1:548266454258:ios:c27733dd7700db310ff46b</string>
 </dict>
 </plist>

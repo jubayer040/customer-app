@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "308737311204",
-    "project_id": "shopperz-fe4ea",
-    "storage_bucket": "shopperz-fe4ea.appspot.com"
+    "project_number": "548266454258",
+    "project_id": "smart-in-mall",
+    "storage_bucket": "smart-in-mall.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:308737311204:android:965ddad00da4bad01bc7f1",
+        "mobilesdk_app_id": "1:548266454258:android:94049df47f8fb8070ff46b",
         "android_client_info": {
           "package_name": "com.inilabs.shopking"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCShj14p-bc1hbJaI9zObRYurP8ffpoVcM"
+          "current_key": "AIzaSyCbnAqHqLV8gg7ainzGb2ZKGonWVPHhyJQ"
         }
       ],
       "services": {
